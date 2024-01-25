@@ -1,8 +1,10 @@
 /* external style sheet */
 
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
 
 body{
     background: rgb(52, 206, 116);
+    font-family: "Lilita One", sans-serif;
 }
 h1 {
     color: blue;
