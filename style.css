@@ -1,0 +1,10 @@
+/* external style sheet */
+
+
+body{
+    background: rgb(52, 206, 116);
+}
+h1 {
+    color: blue;
+    text-align: center;
+}
